@@ -11,3 +11,8 @@ Features
 * Submitting the times to project / task
 * Multi-platform - uses Qt 4.4 - 4.8 (tested)
 * Easy to use
+
+Installation
+============
+
+No easy install package included yet. Compilation needed. There's a pro file included for easy import into Qt Creator IDE.
